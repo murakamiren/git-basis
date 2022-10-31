@@ -1,5 +1,5 @@
 /**
- *
+ * add function(simple math)
  * @param x first number to add
  * @param y second number to add
  * @returns result of x + y
